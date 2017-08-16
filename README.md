@@ -12,10 +12,10 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
 
-##Requirements
+## Requirements
 
 [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 
-##Installation
+## Installation
 
 Download RealisticTandem.nb, Input.zip, and the [ASTM G173-03 Reference Spectra (ASTMG173.xls)](http://rredc.nrel.gov/solar/spectra/am1.5/astmg173/astmg173.html) and include these files in the directory where you are performing the analysis. Unpack the file Input.zip and add the reference spectra into the folder Input. Open the file RealisticTandem.nb with Wolfram Mathematica and evaluate the notebook.
