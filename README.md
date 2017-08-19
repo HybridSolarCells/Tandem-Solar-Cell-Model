@@ -5,6 +5,7 @@ This program models a silicon solar cell with an efficiency of 26.7% and a perov
 Measured solar spectra and temperatures can be downloaded for example from [NREL](https://midcdmz.nrel.gov/apps/go2url.pl?site=BMS&page=spectra.pl?BMS) and will soon be available from the [AMOLF Solar Field](http://www.lmpv.nl/solar-field/).
 
 When citing this work, please refer to:
+M. H. Futscher, B. Ehrler, Modeling the Performance Limitations and Prospects of Perovskite/Si Tandem Solar Cells under Realistic Operating Conditions, ACS Energy Lett. 2017, DOI: 10.1021/acsenergylett.7b00596
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
